@@ -1,0 +1,58 @@
+body {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#wrapper {
+  min-width: 240px;
+  max-width: 340px;
+  min-height: 350px;
+  max-height: 800px;
+  margin: 60px auto 0 auto;
+}
+
+body, button, input {
+  font-family: "Arial, Verdana, Sans Serif", sans-serif;
+  font-size: 16px;
+}
+
+h2 {
+  margin: 6px 3px 3px 6px;
+  font-family: "Brush Script MT", cursive;
+  font-size: 42px;
+  color: #615D5DFF;
+}
+
+button, input {
+  padding: 6px;
+  border: 1px solid #615d5d;
+  border-radius: 4px;
+  box-shadow: 3px 3px 3px 0 #B0A9A9;
+}
+
+button {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+#input-txt {
+  margin: 6px 3px 3px 6px;
+  min-width: 240px; 
+}
+
+#check-btn {
+  margin: 6px 3px 3px 6px;
+  background: #4CE44E;
+}
+
+#clear-btn {
+  margin: 6px 0 3px 3px;
+  background: #E4080A;
+}
+
+#result {
+  margin: 12px 0 0 6px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #595454;
+} 
